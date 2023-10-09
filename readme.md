@@ -1,3 +1,3 @@
-#ReadMe
-##Initial commands
+# 1. ReadMe
+## 2. Initial commands
 git init
